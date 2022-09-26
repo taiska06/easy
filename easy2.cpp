@@ -1,4 +1,4 @@
-#include "eazy2.h"
+#include "easy.h"
 
 using namespace std;
 int itc_max(int a, int b) {
