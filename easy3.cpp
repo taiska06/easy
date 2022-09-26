@@ -11,6 +11,7 @@ int itc_spr(int num,int num1) {
     return num * num1;
 }
 int itc_str(int a, int b, int c) {
+    int k;
     k=1;
     if (a + b <= c || a + c <= b || b + c <= a || a <= 0 || b <= 0 || c <= 0)
     return -1;
