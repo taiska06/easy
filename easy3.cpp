@@ -5,10 +5,10 @@ int itc_skv(int num) {
         return -1;
     return num * num;
 }
-int itc_spr(int num,int num1) {
-    if (num < 0 || num1 < 0 )
+int itc_spr(int a,int b) {
+    if (a < 0 || b < 0 )
         return -1;
-    return num * num1;
+    return a * b;
 }
 int itc_str(int a, int b, int c) {
     int k;
