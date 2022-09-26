@@ -1,12 +1,12 @@
 #include"easy.h"
 #define PI 3.14;
 int itc_skv(int num) {
-    if (num < 0)
+    if (num <= 0)
         return -1;
     return num * num;
 }
 int itc_spr(int a,int b) {
-    if (a < 0 || b < 0 )
+    if (a <= 0 || b <= 0 )
         return -1;
     return a * b;
 }
