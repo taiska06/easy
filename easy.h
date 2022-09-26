@@ -13,7 +13,7 @@
  double itc_fmin(double a, double b);
  int itc_sqrt(int num);
  int itc_skv(int num);
- int itc_spr(int num,int num1);
+ int itc_spr(int a,int b);
  int itc_str(int a,int b, int c);
  double itc_scir(int r);
 #endif // EASY_H_INCLUDED
