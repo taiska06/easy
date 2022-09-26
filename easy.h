@@ -3,7 +3,7 @@
 #include <iostream>
  void itc_name();
  void itc_fio();
- int itc_abc(int num);
+ int itc_abs(int num);
  double itc_fabs(double num);
  int itc_revnbr(int num);
  int itc_max(int a,int b);
