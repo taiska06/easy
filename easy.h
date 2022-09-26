@@ -6,6 +6,7 @@
  int itc_abs(int num);
  double itc_fabs(double num);
  int itc_revnbr(int num);
+ bool itc_iseven(int num);
  int itc_max(int a,int b);
  int itc_min(int a, int b);
  double itc_fmax(double a, double b);
