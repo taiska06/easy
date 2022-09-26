@@ -22,3 +22,8 @@ double itc_scir(int r) {
         return -1;
     return r * r * PI;
 }
+ bool itc_iseven (int num){
+     return (num % 2 == 0);
+     
+     
+ }
