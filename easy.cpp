@@ -8,7 +8,7 @@ void itc_fio(){
 cout<<"Apakina" << endl<<"Germanovna"<< endl;
 }
 
-int itc_abc(int num){
+int itc_abs(int num){
 if (num < 0)
     return (num*(-1));
 return(num);
