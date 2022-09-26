@@ -1,4 +1,4 @@
-#include"easy3.h"
+#include"easy.h"
 #define PI 3.14;
 int itc_skv(int num) {
     if (num < 0)
